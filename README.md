@@ -1,2 +1,2 @@
-# hackerrank
-Repository containing my solutions to data structures and algorithm problems on hackerrank.
+# Hackerrank
+Repository containing my solutions (in javascript) to data structures and algorithm problems on hackerrank.
